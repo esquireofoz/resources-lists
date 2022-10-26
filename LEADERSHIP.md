@@ -1,6 +1,6 @@
 (General | Engineering) Leadership
 ==================================
-* Books
+## Books
   - [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM) by [Nicole Forsgren](https://en.wikipedia.org/wiki/Nicole_Forsgren), Jez Humble and Gene Kim
   - [The Manager's Path: A Guide to Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F) by [Camille Fournier](https://en.wikipedia.org/wiki/Camille_Fournier)
   - [Managing Humans: More Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484271157) by [Michael Lopp](https://en.wikipedia.org/wiki/Rands)
@@ -10,11 +10,11 @@
   - [How to Recruit and Hire Great Software Engineers: Building a Crack Development Team](https://www.amazon.com/Recruit-Hire-Great-Software-Engineers/dp/143024917X) by Patrick McCuller
   - [Smart and Gets Things Done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385) by [Joel Spolsky](https://en.wikipedia.org/wiki/Joel_Spolsky)
 
-* Blogs
+## Blogs
   - [Harvard Business Review](https://hbr.org/)
   - [StaffEng](https://staffeng.com/)
   - [Rands in Repose](https://randsinrepose.com/)
 
-* Podcasts
+## Podcasts
   - [WorkLife](https://www.ted.com/podcasts/worklife) by [Adam Grant](https://en.wikipedia.org/wiki/Adam_Grant)
   - [Wisdom from the Top](https://www.npr.org/podcasts/510363/wisdom-from-the-top)
