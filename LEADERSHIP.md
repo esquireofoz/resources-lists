@@ -17,4 +17,4 @@
 
 ## Podcasts
   - [WorkLife](https://www.ted.com/podcasts/worklife) by [Adam Grant](https://en.wikipedia.org/wiki/Adam_Grant)
-  - [Wisdom from the Top](https://www.npr.org/podcasts/510363/wisdom-from-the-top)
+  - [Wisdom from the Top](https://www.npr.org/podcasts/510363/wisdom-from-the-top) by [Guy Raz](https://en.wikipedia.org/wiki/Guy_Raz)
