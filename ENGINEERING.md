@@ -23,6 +23,7 @@
   - [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 
 ## Repositories Geared Towards Learning
+  - [Linux Insides](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md) - this is a super detailed resource which covers linux internals in a great deal of depth
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
   - [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
